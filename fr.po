@@ -1,21 +1,20 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-10 14:01+0000\n"
+"PO-Revision-Date: 2025-01-10 14:05+0000\n"
 "Last-Translator: Mathilde GRIMAL <mathilde.grimal@pradeo.com>\n"
-"Language-Team: English <http://weblate.tools.pradeo.net/projects/mathilde/"
-"test/en/>\n"
-"Language: en\n"
+"Language-Team: French <http://weblate.tools.pradeo.net/projects/mathilde/"
+"test/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.8.4\n"
-"PO-Creation-Date: 2025-01-10 14:09\n"
-
-#: dictionnaries/en/common.yml:1
-msgid "title"
-msgstr "Hello hello"
 
 #: dictionnaries/en/index.yml:1
 msgid "head"
-msgstr "Head"
+msgstr "Tête"
+
+#: dictionnaries/en/common.yml:1
+msgid "title"
+msgstr "Bonjour bonjour !"
